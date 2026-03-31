@@ -95,7 +95,50 @@ To root, click a node → "Tree structure" → "Re-root the tree here" or “Roo
 You can color some nodes and branches by clicking on a node, select “Colored ranges”, then “Create a new range”. After selecting your color and a name, it will open a small pop-up window called “Colored ranges”, where you can change the cover.
 
 13) Color two multifurcating nodes (nodes with more than two branches). Plot the tree here, and describe the two nodes. Are the samples close genetically? Does the metadata support this clustering?
- 
+
+ ## Annotation
+
+The metadata includes information like sampling country and authorship. You can annotate the tree in iTOL to improve interpretation. Annotations can be added manually (by clicking on nodes) or in batch using uploaded metadata files.
+Templates are available here: https://itol.embl.de/help.cgi#annot
+Example annotation file to label countries:
+
+Here is the example of a text file to add a country label in the phylogenetic tree for the sample 1_0081_PF and 1_0087_PF.
+——————————————————————————————————
+```
+DATASET_TEXT
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,Country
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+#=================================================================#
+#   	Actual data follows after the "DATA" keyword          	#
+#=================================================================#
+#the following fields are possible for each node:
+#ID,label,position,color,style,size_factor,rotation
+
+#position defines the position of the text label on the tree:
+#  -1 = external label
+#  a number between 0 and 1 = internal label positioned at the specified value along the node branch (for example, position 0 is exactly at the start of node branch, position 0.5 is in the middle, and position 1 is at the end)
+#style can be 'normal',''bold','italic' or 'bold-italic'
+#size factor will be multiplied with the standard font size
+
+DATA
+1_0087_PF,Oceania,-1,#000000,normal,1,0
+1_0181_PF,Oceania,-1,#000000,normal,1,0
+```
+———————————————————————————————————
+
+(Note: iTOL doesn't support spaces in sample names. Replace spaces with underscores in your Newick file before uploading. Colors use hexadecimal codes, e.g., #000000 for black.)
+
+You will obtain something like this.
+
+
+<img width="835" height="70" alt="annotation" src="https://github.com/user-attachments/assets/2cac2a44-e7f5-4529-9145-db284a5b13ac" />
 
 ## Overall evalutation 
 
