@@ -6,7 +6,7 @@ In this exercise, you will be working with genomics sequences from a virus retri
 - Align the sequences: You will start by aligning these genomic sequences to identify similarities and differences in the viral genomes.
 
 
-- Build a phylogenetic tree: Once the sequences are aligned, you will use computational tools to construct a phylogenetic tree, which will reveal how these different Zika virus strains are related to each other. This tree will help us understand the virus’s genetic diversity and how different strains may have evolved over time.
+- Build a phylogenetic tree: Once the sequences are aligned, you will use computational tools to construct a phylogenetic tree, which will reveal how these different virus strains are related to each other. This tree will help us understand the virus’s genetic diversity and how different strains may have evolved over time.
 
 
 - Visualize the tree: The final step is to visualize the phylogenetic tree and interpret the relationships between strains. This will allow you to identify patterns in the virus’s evolution, such as which strains may have emerged in different geographical regions or times, and how they may have spread.
@@ -34,7 +34,7 @@ Questions :
 1) Look at the metadata. Do you think we will cover enough diversity for a phylogenetic tree ?
 
 
-2) Use bioawk (or another tool), estimate the length of the Zika genome. Looking at the data, is there a genome which will have a lot of gaps in the alignment ?	
+2) Use bioawk (or another tool), estimate the length of your virus genome. Looking at the data, is there a genome which will have a lot of gaps in the alignment ?	
 
 Tools available :
 bioawk : apt install bioawk
