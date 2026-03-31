@@ -1,0 +1,31 @@
+accession	date	region	country	division	location	state	host	host_genus	host_type	is_lab_host	authors	url	length	clade_membership	lineage
+KX547418	2012-08-16	North America	USA	New York	St. Lawrence Co.	NY	Aedes sp.	Aedes	Mosquito		Shabman et al.	https://www.ncbi.nlm.nih.gov/nuccore/KX547418	10786.0	WN02	1A
+MG004538	2015-10-07	North America	USA	Arizona		AZ	Culex quinquefasciatus	Culex	Mosquito		Hepp et al.	https://www.ncbi.nlm.nih.gov/nuccore/MG004538	10803.0	WN02	1A
+MH507637	2008-09-18	North America	USA	California	Valley_Center	CA	Corvus brachyrhynchos	Corvus	Bird		Grubaugh et al.	https://www.ncbi.nlm.nih.gov/nuccore/MH507637	10302.0	WN02	1A
+MH507661	2014-10-03	North America	USA	California	Santee	CA	Corvus brachyrhynchos	Corvus	Bird		Grubaugh et al.	https://www.ncbi.nlm.nih.gov/nuccore/MH507661	10302.0	SW03	1A
+MN481597	2012-08-27	Europe	Greece				Gallus gallus	Gallus	Bird		Chaintoutis et al.	https://www.ncbi.nlm.nih.gov/nuccore/MN481597	10926.0		2
+OQ053539	2022-07-18	Europe	Greece				Culex pipiens	Culex	Mosquito		Tsioka et al.	https://www.ncbi.nlm.nih.gov/nuccore/OQ053539	10992.0		2
+OQ721709	2010-07-09	North America	USA	California	Sacramento	CA					Grubaugh et al.	https://www.ncbi.nlm.nih.gov/nuccore/OQ721709	10302.0	WN02	1A
+OQ721759	2018-09-27	North America	USA	New Hampshire	Cheshire	NH	Culex pipiens	Culex	Mosquito		Grubaugh et al.	https://www.ncbi.nlm.nih.gov/nuccore/OQ721759	10302.0	WN02	1A
+OQ721816	2017-08-11	North America	USA	Louisiana	Wbr	LA	Culex quinquefasciatus	Culex	Mosquito		Grubaugh et al.	https://www.ncbi.nlm.nih.gov/nuccore/OQ721816	10302.0	WN02	1A
+OR825043	2022-02-20	Europe	Greece	Messenia			Corvidae	Corvidae	Bird		Athanasakopoulou et al.	https://www.ncbi.nlm.nih.gov/nuccore/OR825043	346.0		2
+OZ201625	2019-08-27	North America	USA	Connecticut		CT	Culex pipiens	Culex	Mosquito		Feriancek et al.	https://www.ncbi.nlm.nih.gov/nuccore/OZ201625	11028.0	WN02	1A
+OZ201659	2018-09-11	North America	USA	Connecticut		CT	Coquillettidia perturbans	Coquillettidia	Mosquito		Feriancek et al.	https://www.ncbi.nlm.nih.gov/nuccore/OZ201659	11029.0	WN02	1A
+OZ309012	2025-07-03	North America	USA	California; San Diego County			Culex quinquefasciatus	Culex	Mosquito		Rhoades et al.	https://www.ncbi.nlm.nih.gov/nuccore/OZ309012	10939.0	WN02	1A
+OZ309985	2012-08-15	North America	USA	Nebraska; Chase			Culex tarsalis	Culex	Mosquito		Freed et al.	https://www.ncbi.nlm.nih.gov/nuccore/OZ309985	10275.0	WN02	1A
+OZ310107	2012-07-16	North America	USA	Nebraska; Madison			Culex tarsalis	Culex	Mosquito		Freed et al.	https://www.ncbi.nlm.nih.gov/nuccore/OZ310107	10260.0	WN02	1A
+PQ475057	2021-08-13	Europe	Germany	Saxony-Anhalt			Culex	Culex	Mosquito		Patzina-Mehling et al.	https://www.ncbi.nlm.nih.gov/nuccore/PQ475057	10528.0		2
+PV126602	2022-08-22	North America	USA	Connecticut		CT	Corvus brachyrhynchos	Corvus	Bird		Hyeon et al.	https://www.ncbi.nlm.nih.gov/nuccore/PV126602	10301.0	WN02	1A
+PX632826	2017-01-01	Europe	Italy	Emiliaromagna			Corvidae	Corvidae	Bird		della Ventura et al.	https://www.ncbi.nlm.nih.gov/nuccore/PX632826	1588.0		2
+PX632861	2017-01-01	Europe	Italy	Emiliaromagna			Corvidae	Corvidae	Bird		della Ventura et al.	https://www.ncbi.nlm.nih.gov/nuccore/PX632861	1588.0		2
+KC333380	2012-06-29	North America	USA	Texas	Katy	TX	Cyanocitta cristata	Cyanocitta	Bird		Mann et al.	https://www.ncbi.nlm.nih.gov/nuccore/KC333380	10989.0	WN02	1A
+KC883708	2003-09-24	North America	USA				Corvus brachyrhynchos	Corvus	Bird		Phillips et al.	https://www.ncbi.nlm.nih.gov/nuccore/KC883708	2004.0	NY99	1A
+KC883728	2005-05-12	North America	USA				Culex restuans	Culex	Mosquito		Phillips et al.	https://www.ncbi.nlm.nih.gov/nuccore/KC883728	2004.0	WN02	1A
+KM215569	2004-08-11	North America	USA				Ochlerotatus trivittatus	Ochlerotatus	Mosquito		Anderson et al.	https://www.ncbi.nlm.nih.gov/nuccore/KM215569	1857.0	WN02	1A
+KX547182	2002-09-11	North America	USA	New York	Orange Co.	NY	Culex	Culex	Mosquito		Shabman et al.	https://www.ncbi.nlm.nih.gov/nuccore/KX547182	10787.0	WN02	1A
+DQ786572	2004-10-18	Europe	France				Passer domesticus	Passer	Bird		Jourdain et al.	https://www.ncbi.nlm.nih.gov/nuccore/DQ786572	10938.0	NY99	1A
+DQ874416	2005-08-03	North America	USA	Illinois	Lake County IL	IL	Corvus brachyrhynchos	Corvus	Bird		Bertolotti et al.	https://www.ncbi.nlm.nih.gov/nuccore/DQ874416	1575.0	WN02	1A
+EF631105	2005-09-02	North America	USA	Illinois	Cook County IL	IL	Culex pipiens	Culex	Mosquito		Bertolotti et al.	https://www.ncbi.nlm.nih.gov/nuccore/EF631105	1575.0	WN02	1A
+EF631150	2005-09-07	North America	USA	Illinois	Cook County IL	IL	Culex pipiens	Culex	Mosquito		Bertolotti et al.	https://www.ncbi.nlm.nih.gov/nuccore/EF631150	1575.0	WN02	1A
+GQ502373	2004-07-16	North America	USA	Zip Code 91762			Homo sapiens	Homo	Human		Bernardin et al.	https://www.ncbi.nlm.nih.gov/nuccore/GQ502373	1418.0	WN02	1A
+GQ502374	2004-07-19	North America	USA	Zip Code 92313			Homo sapiens	Homo	Human		Bernardin et al.	https://www.ncbi.nlm.nih.gov/nuccore/GQ502374	1418.0	WN02	1A
