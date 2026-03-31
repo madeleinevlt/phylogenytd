@@ -37,7 +37,9 @@ Questions :
 2) Use bioawk (or another tool), estimate the length of your virus genome. Looking at the data, is there a genome which will have a lot of gaps in the alignment ?	
 
 Tools available :
+
 bioawk : apt install bioawk
+
 any document visualisation : bloc-notes, notepad++ etc
 
 
@@ -56,8 +58,11 @@ For this exercise, we will use a global aligner to align the data.
 Note: Even if you suggest removing a region, we will not do so for the rest of the analysis. The phylogenetic tool will automatically discard regions with too many gaps.
 
 Tools available :
+
 MAFFT : https://mafft.cbrc.jp/alignment/server/index.html
+
 CLUSTAL : https://www.genome.jp/tools-bin/clustalw
+
 MUSCLE : https://www.ebi.ac.uk/jdispatcher/msa/muscle
 
 ## Make a phylogenetic tree
@@ -72,7 +77,9 @@ Now that your sequences are aligned, build a phylogenetic tree using any tools o
 
 Tools available :
 PhyML : http://www.atgc-montpellier.fr/phyml/
+
 RAxML : https://antonellilab.github.io/raxmlGUI/
+
 IQ-TREE : http://iqtree.cibiv.univie.ac.at/
 
 
