@@ -107,10 +107,13 @@ You can color some nodes and branches by clicking on a node, select “Colored r
  ## Annotation
 
 The metadata includes information like sampling country and authorship. You can annotate the tree in iTOL to improve interpretation. Annotations can be added manually (by clicking on nodes) or in batch using uploaded metadata files.
+
 Templates are available here: https://itol.embl.de/help.cgi#annot
+
 Example annotation file to label countries:
 
 Here is the example of a text file to add a country label in the phylogenetic tree for the sample 1_0081_PF and 1_0087_PF.
+
 ——————————————————————————————————
 ```
 DATASET_TEXT
@@ -156,5 +159,5 @@ You will obtain something like this.
 
 16) If you had more time, what else would you explore?
 
-17) You can compare your tree with the one with all of your data at https://nextstrain.org/
+17) You can compare your tree with the one that contains all of your data at https://nextstrain.org/
 
