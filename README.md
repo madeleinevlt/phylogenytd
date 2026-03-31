@@ -159,5 +159,5 @@ You will obtain something like this.
 
 16) If you had more time, what else would you explore?
 
-17) You can compare your tree with the one that contains all of your data at https://nextstrain.org/
+17) If you possible, compare your tree with the one that contains all of your data at https://nextstrain.org/
 
