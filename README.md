@@ -84,7 +84,7 @@ RAxML : https://antonellilab.github.io/raxmlGUI/
 IQ-TREE : http://iqtree.cibiv.univie.ac.at/
 
 
-If you use PhyML, your input should be in .PHYLIP format. From MAFFT, you can easily convert your fasta into PHYLIP format using the buttom "REFORMAT" and then select PHYLIP format.
+If you use PhyML, your input should be in .PHYLIP format. From MAFFT, you can easily convert your fasta into PHYLIP format using the buttom "REFORMAT" and then select PHYLIP format. Or you can use http://phylogeny.lirmm.fr/phylo_cgi/data_converter.cgi.
 
 
 ## Visualize the phylogenetic tree
